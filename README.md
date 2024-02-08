@@ -23,12 +23,6 @@ New recipes and page improvements coming soon.
 
 To start, we enter our browser and place github to enter my repositories, copy the code, enter the local disk c and then look for the odin folder, enter it and then open git bash and make a git clone
 
-
-To get a local copy up and running follow these simple example steps.
-
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 ### Setup
@@ -41,22 +35,10 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-
-
 ## Authors
 
-👤 **Arístides José Molina Pérez**
-
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
+👤 **Diego Redondo**
+https://github.com/DiegoRedondo1702
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
