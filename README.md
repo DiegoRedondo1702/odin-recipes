@@ -1,12 +1,12 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# Project Odin-Recipes
 
-> One paragraph statement about the project.
+> This project is about recipes, of which there are recipes for pizza, arepa and rice. I hope you enjoy.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+New recipes and page improvements coming soon.
 
 ## Built With
 
@@ -21,8 +21,10 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To start, we enter our browser and place github to enter my repositories, copy the code, enter the local disk c and then look for the odin folder, enter it and then open git bash and make a git clone
+
+
+To get a local copy up and running follow these simple example steps.
 
 
 To get a local copy up and running follow these simple example steps.
@@ -67,9 +69,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+-I thank uneweb.
 
 ## 📝 License
 
