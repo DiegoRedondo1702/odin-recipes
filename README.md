@@ -43,7 +43,7 @@ Github:https://github.com/DiegoRedondo1702
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [Odin-recipes][((https://github.com/DiegoRedondo1702/odin-recipes/issues))].
+Feel free to check the [Odin-recipes][(https://github.com/DiegoRedondo1702/odin-recipes/issues)].
 ## Show your support
 
 Give a ⭐️ if you like this project!
