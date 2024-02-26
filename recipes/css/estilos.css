@@ -1,5 +1,21 @@
 p {
   text-align: justify;
   font-family: Verdana, "Geneva", Tahoma, sans-serif;
+  
 }
+
+body{
+  background-color: rgba(218, 243, 241, 0.973);
+
+}
+h1{
+  text-align: center;
+}
+
+li{
+  
+  margin-top: auto;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
 
