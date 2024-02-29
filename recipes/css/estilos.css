@@ -15,7 +15,25 @@ h1{
 li{
   
   margin-top: auto;
-  font-family:Georgia, 'Times New Roman', Times, serif
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  
 }
 
+.title{
+  background: rgb(3, 201, 3);
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 16px;
+  padding: 8px;
+
+}
+
+.list{
+  background: rgb(185, 240, 185);
+  margin-bottom: 8px;
+  padding: 8px;
+}
+a{
+  color: rgb(2, 4, 145);
+}
 
